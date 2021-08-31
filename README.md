@@ -3,7 +3,7 @@
 🚧 Solution 🚧
  
 ## Table of Contents
-- [Database Variable](#databasevariables)
+- [Database Variable](#database-variables)
 - [Prerequisite](#prerequisite.)
 - [Screenshots](#screenshots)
 
