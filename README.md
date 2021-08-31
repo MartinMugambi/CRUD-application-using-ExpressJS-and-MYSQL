@@ -14,7 +14,7 @@
 - Download [Node.js pre-built installer]("https://nodejs.org/en/download/) in your computer
 
 - Navigate to the cloned repository directory in your computer from the command terminal and run the following command to install the project dependecies.
-
+- Used to send a flash message and render it without redirecting the request.
  ```js
 npm install express-flash --save
 ```
