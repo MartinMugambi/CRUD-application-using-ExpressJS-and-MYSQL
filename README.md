@@ -13,7 +13,7 @@
 
 - Download [Node.js pre-built installer](https://nodejs.org/en/download/) in your computer
 
-#### Navigate to the cloned repository directory in your computer from the command terminal and run the following commands to install the project dependecies.
+- Navigate to the cloned repository directory in your computer from the command terminal and run the following commands to install the project dependecies.
 
 Used to save any specified packages into dependencies by default
 ```js
@@ -41,10 +41,10 @@ driver to connect Node.js with MySQL
   npm install method-override --save
 ```
 
-Find the project database on the exported mysql database folder on this github repository and import 
+- Find the project database on the exported mysql database folder on this github repository and import 
 
 
-To Run and See Output run the following command in your computer browser
+- To Run and See Output run the following command in your computer browser
 
 ```js
    http://localhost:3000/books
