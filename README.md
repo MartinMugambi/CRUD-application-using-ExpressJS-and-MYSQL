@@ -5,13 +5,11 @@
 ## Table of Contents
 - [Database Variable](#databasevariables)
 - [Prerequisite](#prerequisite.)
-- [Related Posts](#related-posts)
 - [Screenshots](#screenshots)
 
 
-
 ## Database variables
- - In the lib folder in this repo, change the db.js variables according to your MySQL's username, password and database name.
+ - In the lib folder in this repo, change the db.js variables according to your MySQL's username and password.
 ```js 
  var mysql = require('mysql');
 var connection = mysql.createConnection({
