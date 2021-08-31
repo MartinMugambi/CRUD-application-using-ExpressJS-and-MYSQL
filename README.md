@@ -13,39 +13,38 @@
 
 - Download [Node.js pre-built installer](https://nodejs.org/en/download/) in your computer
 
-## Navigate to the cloned repository directory in your computer from the command terminal and run the following commands to install the project dependecies.
+#### Navigate to the cloned repository directory in your computer from the command terminal and run the following commands to install the project dependecies.
 
-### Used to save any specified packages into dependencies by default
+Used to save any specified packages into dependencies by default
 ```js
 npm install
 ```
 
-### Used to send a flash message and render it without redirecting the request.
+Used to send a flash message and render it without redirecting the request.
  ```js
 npm install express-flash --save
 ```
-
-### Used to make  session
+Used to make  session
  ```js
  npm install express-session --save
 ```
 
-### Used to send PUT and DELETE requests
+Used to send PUT and DELETE requests
 
 ```js
   npm install method-override --save
 ```
 
-### driver to connect Node.js with MySQL
+driver to connect Node.js with MySQL
 
 ```js
   npm install method-override --save
 ```
 
-### Find the project database on the exported mysql database folder on this github repository and import 
+Find the project database on the exported mysql database folder on this github repository and import 
 
 
-### To Run and See Output run the following command in your computer browser
+To Run and See Output run the following command in your computer browser
 
 ```js
    http://localhost:3000/books
