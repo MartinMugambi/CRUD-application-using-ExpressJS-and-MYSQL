@@ -19,33 +19,13 @@ Used to save any specified packages into dependencies by default
 ```js
 npm install
 ```
+- Find the project database on the exported mysql database folder on this github repository and import to your mysql database
 
-Used to send a flash message and render it without redirecting the request.
- ```js
-npm install express-flash --save
-```
-Used to make  session
- ```js
- npm install express-session --save
-```
-
-Used to send PUT and DELETE requests
-
+- To Run the project
 ```js
-  npm install method-override --save
+    npm start
 ```
-
-driver to connect Node.js with MySQL
-
-```js
-  npm install method-override --save
-```
-
-- Find the project database on the exported mysql database folder on this github repository and import 
-
-
-- To Run and See Output run the following command in your computer browser
-
+- To See Output
 ```js
    http://localhost:3000/books
 ```
