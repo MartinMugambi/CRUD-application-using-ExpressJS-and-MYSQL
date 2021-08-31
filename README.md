@@ -20,18 +20,18 @@
 npm install express-flash --save
 ```
 
-# Used to make  session
+### Used to make  session
  ```js
  npm install express-session --save
 ```
 
-# Used to send PUT and DELETE requests
+### Used to send PUT and DELETE requests
 
 ```js
   npm install method-override --save
 ```
 
-# driver to connect Node.js with MySQL
+### driver to connect Node.js with MySQL
 
 ```js
   npm install method-override --save
