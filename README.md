@@ -15,7 +15,12 @@
 
 - Navigate to the cloned repository directory in your computer from the command terminal and run the following commands to install the project dependecies.
 
-# Used to send a flash message and render it without redirecting the request.
+### Used to save any specified packages into dependencies by default
+```js
+npm install
+```
+
+### Used to send a flash message and render it without redirecting the request.
  ```js
 npm install express-flash --save
 ```
@@ -37,3 +42,11 @@ npm install express-flash --save
   npm install method-override --save
 ```
 
+### Find the project database on the exported mysql database folder on this github repository and import 
+
+
+### To Run and See Output run the following command
+
+```js
+   http://localhost:3000/books
+```
