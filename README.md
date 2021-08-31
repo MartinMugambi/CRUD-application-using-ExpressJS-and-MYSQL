@@ -11,9 +11,9 @@
 ## Prerequisite.
 - In order to run the application, you need to [clone]("link_to_clone)/[fork]("link_to_fork) the [CRUD application](https://github.com/MartinMugambi/-CRUD-application-using-ExpressJS-and-MYSQL.).
 
-- Download [Node.js pre-built installer]("https://nodejs.org/en/download/) in your computer
+- Download [Node.js pre-built installer](https://nodejs.org/en/download/) in your computer
 
-- Navigate to the cloned repository directory in your computer from the command terminal and run the following commands to install the project dependecies.
+## Navigate to the cloned repository directory in your computer from the command terminal and run the following commands to install the project dependecies.
 
 ### Used to save any specified packages into dependencies by default
 ```js
@@ -45,7 +45,7 @@ npm install express-flash --save
 ### Find the project database on the exported mysql database folder on this github repository and import 
 
 
-### To Run and See Output run the following command
+### To Run and See Output run the following command in your computer browser
 
 ```js
    http://localhost:3000/books
